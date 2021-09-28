@@ -1,5 +1,17 @@
 ### Hi there 👋
 
+My name is Miguel Junior, I'm a person searching self, I like sports (with specially focus on Soccer), music rock and videogames too.
+
+I like make code and I am learning about DevOps.
+
+Currently I am working as Junior Automation Engineer at Jalasoft.
+
+These are my social networks:
+
+- [Twitter](https://twitter.com/miguelajr89)
+- [Linkedin](www.linkedin.com/in/thejuniorautomation)
+- [Twitch](https://www.twitch.tv/migueljuniorbo)
+- [You Tube](https://www.youtube.com/channel/UC3AISz2b5aZFvFw4ZK-d41w)
 <!--
 **migueljunior/migueljunior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
